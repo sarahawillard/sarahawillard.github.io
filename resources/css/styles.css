@@ -11,6 +11,7 @@ body {
  a:hover {
    text-decoration: none;
    color: #6495ED;
+   font-style: italic;
  }
 
 #sky {
@@ -22,7 +23,7 @@ body {
   height: 200px;
   width: 202px;
   border-radius: 100%;
-  padding: 20px;
+  margin: 20px 20px 0px 20px;
 }
 
 
