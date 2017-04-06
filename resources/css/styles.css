@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  font-family: 'Fauna One', serif;
 }
 
  a {
@@ -11,3 +12,13 @@ body {
    text-decoration: none;
    color: #6495ED;
  }
+
+img {
+  height: 200px;
+  width: 202px;
+  border-radius: 100%;
+}
+#name {
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+}
