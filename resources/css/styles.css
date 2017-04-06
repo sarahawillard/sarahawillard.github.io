@@ -15,9 +15,10 @@ body {
    font-style: italic;
  }
 
+header
 
 #projects {
-  background-image: url("../../resources/images/sky.png");
+  background-image: url("/resources/images/sky.png");
   width: 300px;
   height: 200px;
   background-color: green;
