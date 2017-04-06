@@ -13,10 +13,23 @@ body {
    color: #6495ED;
  }
 
-img {
+#sky {
+  background-image: url("./resources/images/sky.jpg");
+
+}
+
+#avatar {
   height: 200px;
   width: 202px;
   border-radius: 100%;
+  padding: 20px;
+}
+
+
+
+#avatar:hover {
+  height: 210px;
+  width: 212px;
 }
 #name {
   font-family: 'Playfair Display', serif;
