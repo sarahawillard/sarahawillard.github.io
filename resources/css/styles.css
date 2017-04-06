@@ -15,9 +15,12 @@ body {
    font-style: italic;
  }
 
-#sky {
-  background-image: url("./resources/images/sky.jpg");
 
+#projects {
+  background-image: url("../../resources/images/sky.png");
+  width: 300px;
+  height: 200px;
+  background-color: green;
 }
 
 #avatar {
@@ -27,12 +30,11 @@ body {
   margin: 20px 20px 0px 20px;
 }
 
-
-
 #avatar:hover {
   height: 210px;
   width: 212px;
 }
+
 #name {
   font-family: 'Playfair Display', serif;
   font-size: 40px;
